@@ -1,1 +1,1 @@
-# Codepen Cloen made using react.js
+# Codepen Clone made using react.js
